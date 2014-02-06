@@ -1,4 +1,4 @@
-This game was made in Actionscript3 for Adobe Air 4.0
+This is the source code of Gravity Rush 2 for Android and iOS, made in Actionscript3 for Adobe Air 4.0
 
 It is distributed for learning purposes and to encourage Adobe Air development. 
 
