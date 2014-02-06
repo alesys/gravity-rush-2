@@ -1,4 +1,4 @@
-package
+﻿package
 {
 	import com.adobe.ane.gameCenter.GameCenterAuthenticationEvent;
 	import com.adobe.ane.gameCenter.GameCenterController;
@@ -36,11 +36,11 @@ package
 		{
 			if (isIOS())
 			{
-				revmob = new RevMob('52f184235343524c61000062');
+				revmob = new RevMob('');
 			}
 			else
 			{
-				revmob = new RevMob('52f1842a5343524c6100006c');
+				revmob = new RevMob('');
 			}
 			this.loadAssets();
 			this.setupGameCenter();
